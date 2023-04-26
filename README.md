@@ -1,7 +1,7 @@
-[![MasterHead](https://media2.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e474de5pkpkfxbc57u0uov6c7n0l11z5j4q6oukc7ad&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate frontend developer from Europe</h3>
-<img align="right" alt="Coding" width="400" src=“https://media2.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e474de5pkpkfxbc57u0uov6c7n0l11z5j4q6oukc7ad&ep=v1_gifs_search&rid=giphy.gif&ct=g”/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 - 🌱 I’m currently learning **Next js | MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.simonfullstack.com/](https://www.simonfullstack.com/)
